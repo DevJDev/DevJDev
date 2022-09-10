@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevJDev
+- 👀 I’m interested in Programming, Obviously ;)
+- 🌱 I’m currently learning JavaScript/TypeScript, C++, and GoLang
+- 💞️ I’m looking to collaborate on Your Mom!
+- 📫 How to reach me - You don't ;)
